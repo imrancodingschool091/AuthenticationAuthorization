@@ -1,0 +1,24 @@
+nav{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: .4rem 1.5em;
+    background-color: black;
+   
+}
+
+.nav-logo{
+    display: flex;
+}
+.nav-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0 1.5rem;
+    list-style: none;
+}
+
+.nav-list li{
+    color: white;
+}
